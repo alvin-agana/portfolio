@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.c7785be2.chunk.css",
+    "main.css": "/portfolio/static/css/main.22df4dad.chunk.css",
     "main.js": "/portfolio/static/js/main.d1fc6bde.chunk.js",
     "main.js.map": "/portfolio/static/js/main.d1fc6bde.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.7ab7c39e.js",
@@ -12,7 +12,7 @@
     "static/js/3.db534c5c.chunk.js.map": "/portfolio/static/js/3.db534c5c.chunk.js.map",
     "index.html": "/portfolio/index.html",
     "static/css/2.ec02d681.chunk.css.map": "/portfolio/static/css/2.ec02d681.chunk.css.map",
-    "static/css/main.c7785be2.chunk.css.map": "/portfolio/static/css/main.c7785be2.chunk.css.map",
+    "static/css/main.22df4dad.chunk.css.map": "/portfolio/static/css/main.22df4dad.chunk.css.map",
     "static/js/2.76d3a98d.chunk.js.LICENSE.txt": "/portfolio/static/js/2.76d3a98d.chunk.js.LICENSE.txt",
     "static/media/DiscordBotPreview.0a673d7f.png": "/portfolio/static/media/DiscordBotPreview.0a673d7f.png",
     "static/media/HealthyFoodPreview.69a0d324.png": "/portfolio/static/media/HealthyFoodPreview.69a0d324.png",
@@ -23,7 +23,7 @@
     "static/js/runtime-main.7ab7c39e.js",
     "static/css/2.ec02d681.chunk.css",
     "static/js/2.76d3a98d.chunk.js",
-    "static/css/main.c7785be2.chunk.css",
+    "static/css/main.22df4dad.chunk.css",
     "static/js/main.d1fc6bde.chunk.js"
   ]
 }
