@@ -10,7 +10,7 @@
 
 #footer span {
     color: #767676;
-    font-size: 10px;
+    font-size: 15px;
 }
 
 #color-container {
@@ -27,4 +27,14 @@ i {
 
 i:hover {
     color: #333333;
+}
+
+/*
+FONT-AWESOME 
+*/
+.icon {
+    margin-right: 7.5px;
+    margin-top: 2px;
+    font-size: 27px;
+    color: #767676;
 }

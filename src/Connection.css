@@ -1,17 +1,17 @@
 .connection {
-    font-size: 10px;
+    font-size: 15px;
 }
 
 .connection-name {
-    margin-bottom: 12px;
+    margin-bottom: 18px;
     position: relative;
-    margin-top: 5px;
+    margin-top: 7.5px;
 }
 
 .connection-name a {
     text-decoration: none;
     color: inherit;
-    padding: 5px;
+    padding: 7.5px;
     border-radius: 3px;
     background-color: rgba(154, 218, 222, 0.5);
 }

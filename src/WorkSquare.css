@@ -1,6 +1,6 @@
 .WorkSquare {
-    width: 150px;
-    height: 150px;
+    width: 225px;
+    height: 225px;
     margin: 12.5px 5px 5px 5px;
     position: relative;
     cursor: pointer;
@@ -22,10 +22,10 @@
     background-color: #333333;
     opacity: 0;
     overflow: hidden;
-    height: 150px;
+    height: 225px;
     width: 100%;
     border-radius: 5px;
-    font-size: 14px;
+    font-size: 21px;
     transition: 0.5s ease;
 }
 
@@ -36,20 +36,20 @@
     height: 0px;
     top: 95%;
     left: 50%;
-    padding-top: 2.5px;
-    padding-left: 2.5px;
-    width: 125px;
+    padding-top: 3.75px;
+    padding-left: 3.75px;
+    width: 187.5px;
     transition: 0.5s;
     transform: translate(-50%, -50%);
 }
 
 .text span {
-    font-size: 11px;
+    font-size: 16.5px;
     font-weight: bold;
 }
 
 .text div {
-    font-size: 8.5px;
+    font-size: 12.75px;
 }
 
 
@@ -58,5 +58,5 @@
 }
 
 .WorkSquare:hover .text {
-    height: 150px;
+    height: 225px;
 }
