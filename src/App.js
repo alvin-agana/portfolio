@@ -9,8 +9,8 @@ function App() {
   return (
     <Router>
       <Switch>
-        <Route path="/work" exact component={Work} />
-        <Route path="/" component={Home} />
+        <Route path={process.env.PUBLIC_URL + '/work'} component={Work} />
+        <Route path={process.env.PUBLIC_URL + '/'} component={Home} />
       </Switch>
     </Router>
   );

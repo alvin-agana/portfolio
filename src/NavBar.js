@@ -8,10 +8,10 @@ function NavBar() {
   return (
     <nav>
         <div class="NavBar">
-            <Link to="/"><Logo /></Link>
+            <Link to={process.env.PUBLIC_URL + "/"}><Logo /></Link>
             <div class="NavBar-options">
-                <Link to="/" style={{ color: 'inherit', textDecoration: 'none' }}><span>home</span></Link>
-                <Link to="/work" style={{ color: 'inherit', textDecoration: 'none' }}><span>work</span></Link>
+                <Link to={process.env.PUBLIC_URL + "/"} style={{ color: 'inherit', textDecoration: 'none' }}><span>home</span></Link>
+                <Link to={process.env.PUBLIC_URL + "/work"} style={{ color: 'inherit', textDecoration: 'none' }}><span>work</span></Link>
             </div>
         </div>
     </nav>
