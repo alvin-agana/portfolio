@@ -4,6 +4,7 @@ import SkillContainer from './SkillContainer';
 import Connection from './Connection';
 import Footer from './Footer';
 import Tape from './Tape';
+import me from './WebsitePic.png';
 import './Home.css';
 
 function Home() {
@@ -31,7 +32,7 @@ function Home() {
             
             <div id="home-main">
               <div id="me-image">
-                <img src="../WebsitePic.png" />
+                <img src={me} />
                 <Tape color="blue" angle="bottom-left" />
                 <Tape color="yellow" angle="bottom-right" />
                 <Tape color="purple" angle="top-left" />
