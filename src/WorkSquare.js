@@ -1,11 +1,11 @@
 import { React, Component } from 'react';
 import './WorkSquare.css';
 import Tape from './Tape';
-import discordbot from './DiscordBot.png';
+import discordbot from './discordbot.png';
 import pantry from './pantry.png';
 import dailygoal from './dailygoalapp.png';
 import libretexts from './libretexts.jpeg';
-import memory from './MemoryGame.png';
+import memory from './memorygame.png';
 import hackdavis from './hackathon.png';
 
 
