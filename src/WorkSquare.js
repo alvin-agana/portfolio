@@ -19,7 +19,7 @@ class WorkSquare extends Component {
             src=discordbot
         } else if (this.props.name == 'pantry') {
             src=pantry
-        } else if (this.props.name == 'dailygoal') {
+        } else if (this.props.name == 'dailygoalapp') {
             src=dailygoal
         } else if (this.props.name == 'libretexts') {
             src=libretexts
