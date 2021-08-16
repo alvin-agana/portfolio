@@ -1,0 +1,30 @@
+/* FOOTER */
+#footer {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    background-color: #FFF7ED;
+}
+
+#footer span {
+    color: #767676;
+    font-size: 10px;
+}
+
+#color-container {
+    display: flex;
+}
+
+#icon-container {
+    display: flex;
+}
+
+i {
+    cursor: pointer;
+}
+
+i:hover {
+    color: #333333;
+}

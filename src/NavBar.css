@@ -1,0 +1,22 @@
+.NavBar {
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+    margin-left: 5%;
+}
+
+.NavBar-options {
+    width: 70px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.NavBar-options span {
+    font-size: 12px;
+    cursor: pointer;
+}
+
+.NavBar-options span:hover {
+    border-bottom: 1px solid #333333;
+}

@@ -1,0 +1,58 @@
+/*
+TAPE
+*/
+.tape {
+    width: 30px;
+    height: 15px;
+    opacity: 0.5;
+    position: relative;
+    display: inline-block;
+    border-radius: 1px;
+}
+
+.blue {
+    background-color: #9ADADE;
+}
+
+.yellow {
+    background-color: #FFD748;
+}
+
+.purple {
+    background-color: #D481FF;
+}
+
+.brown {
+    background-color: #DFB577;
+}
+
+/* angles */
+.bottom-left {
+    transform: rotate(20deg);
+    bottom: 15px;
+    right: 10px;
+}
+
+.bottom-right {
+    transform: rotate(-20deg);
+    bottom: 15px;
+    left: 175px;
+}
+
+.top-left {
+    transform: rotate(-20deg);
+    bottom: 332px;
+    right: 70px;
+}
+
+.top-right {
+    transform: rotate(20deg);
+    bottom: 330px;
+    left: 115px;
+}
+
+.work-square {
+    top: 22.5px;
+    left: 67.5px;
+    z-index: 2;
+}

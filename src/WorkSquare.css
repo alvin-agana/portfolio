@@ -1,0 +1,62 @@
+.WorkSquare {
+    width: 150px;
+    height: 150px;
+    margin: 12.5px 5px 5px 5px;
+    position: relative;
+    cursor: pointer;
+}
+
+.WorkSquare img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    border-radius: 5px;
+    box-shadow: 0.5px 0.5px 4px 0.1px #888888;
+}
+
+.overlay {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: #333333;
+    opacity: 0;
+    overflow: hidden;
+    height: 150px;
+    width: 100%;
+    border-radius: 5px;
+    font-size: 14px;
+    transition: 0.5s ease;
+}
+
+.text {
+    position: absolute;
+    color: white;
+    text-align: left;
+    height: 0px;
+    top: 95%;
+    left: 50%;
+    padding-top: 2.5px;
+    padding-left: 2.5px;
+    width: 125px;
+    transition: 0.5s;
+    transform: translate(-50%, -50%);
+}
+
+.text span {
+    font-size: 11px;
+    font-weight: bold;
+}
+
+.text div {
+    font-size: 8.5px;
+}
+
+
+.WorkSquare:hover .overlay {
+    opacity: 0.9;
+}
+
+.WorkSquare:hover .text {
+    height: 150px;
+}

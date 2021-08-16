@@ -1,0 +1,32 @@
+.connection {
+    font-size: 10px;
+}
+
+.connection-name {
+    margin-bottom: 12px;
+    position: relative;
+    margin-top: 5px;
+}
+
+.connection-name a {
+    text-decoration: none;
+    color: inherit;
+    padding: 5px;
+    border-radius: 3px;
+    background-color: rgba(154, 218, 222, 0.5);
+}
+
+.connection-name a:hover {
+    background-color: rgba(154, 218, 222, 1)
+}
+
+/*
+.connection-underline {
+    width: 62px;
+    height: 6px;
+    opacity: 0.5;
+    background-color: #9ADADE;
+    position: relative;
+    top: 17.5px;
+}
+*/

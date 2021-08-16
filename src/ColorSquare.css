@@ -1,0 +1,22 @@
+.ColorSquare {
+    width: 18px;
+    height: 9px;
+    margin-right: 5px;
+    opacity: 0.5;
+}
+
+#blue {
+    background-color: #9ADADE;
+}
+
+#purple {
+    background-color: #D481FF;
+}
+
+#yellow {
+    background-color: #FFD748;
+}
+
+#brown {
+    background-color: #DFB577;
+}
