@@ -5,7 +5,7 @@ function Connection(props) {
   let name = props.name;
   let href = "";
   if (name === 'Resume') {
-      href = "./Portfolio/Resume.pdf";
+      href = "./Resume.pdf";
   } else if (name === 'LinkedIn') {
       href = "https://www.linkedin.com/in/alvin-agana/";
   } else {
