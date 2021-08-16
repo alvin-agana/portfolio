@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.221b940d.chunk.css",
-    "main.js": "/portfolio/static/js/main.e2c21cf6.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.e2c21cf6.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.773733b8.chunk.css",
+    "main.js": "/portfolio/static/js/main.c0d99b9d.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.c0d99b9d.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.f4c44fed.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.f4c44fed.js.map",
     "static/js/2.b9b73ef6.chunk.js": "/portfolio/static/js/2.b9b73ef6.chunk.js",
@@ -10,22 +10,22 @@
     "static/js/3.67cad1f2.chunk.js": "/portfolio/static/js/3.67cad1f2.chunk.js",
     "static/js/3.67cad1f2.chunk.js.map": "/portfolio/static/js/3.67cad1f2.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "static/css/main.221b940d.chunk.css.map": "/portfolio/static/css/main.221b940d.chunk.css.map",
+    "static/css/main.773733b8.chunk.css.map": "/portfolio/static/css/main.773733b8.chunk.css.map",
     "static/js/2.b9b73ef6.chunk.js.LICENSE.txt": "/portfolio/static/js/2.b9b73ef6.chunk.js.LICENSE.txt",
-    "static/media/DiscordBot.044e7067.png": "/portfolio/static/media/DiscordBot.044e7067.png",
     "static/media/Logo2.1ab2b3d5.png": "/portfolio/static/media/Logo2.1ab2b3d5.png",
-    "static/media/MemoryGame.f1375c48.png": "/portfolio/static/media/MemoryGame.f1375c48.png",
     "static/media/WebsitePic.8d3e973f.png": "/portfolio/static/media/WebsitePic.8d3e973f.png",
     "static/media/dailygoalapp.eb3509ea.png": "/portfolio/static/media/dailygoalapp.eb3509ea.png",
+    "static/media/discordbot.044e7067.png": "/portfolio/static/media/discordbot.044e7067.png",
     "static/media/hackathon.d0032e51.png": "/portfolio/static/media/hackathon.d0032e51.png",
     "static/media/libretexts.0f745398.jpeg": "/portfolio/static/media/libretexts.0f745398.jpeg",
     "static/media/logo.6ce24c58.svg": "/portfolio/static/media/logo.6ce24c58.svg",
+    "static/media/memorygame.f1375c48.png": "/portfolio/static/media/memorygame.f1375c48.png",
     "static/media/pantry.170444fd.png": "/portfolio/static/media/pantry.170444fd.png"
   },
   "entrypoints": [
     "static/js/runtime-main.f4c44fed.js",
     "static/js/2.b9b73ef6.chunk.js",
-    "static/css/main.221b940d.chunk.css",
-    "static/js/main.e2c21cf6.chunk.js"
+    "static/css/main.773733b8.chunk.css",
+    "static/js/main.c0d99b9d.chunk.js"
   ]
 }
