@@ -52,6 +52,7 @@ function Home() {
                   <div id="home-main-resume-container">
                     <Connection name="Resume" />
                     <Connection name="LinkedIn" />
+                    <Connection name="Design Portfolio" />
                     <Connection name="Email me" />
                   </div>
                 </div>

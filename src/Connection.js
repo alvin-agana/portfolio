@@ -8,6 +8,8 @@ function Connection(props) {
       href = "./Resume.pdf";
   } else if (name === 'LinkedIn') {
       href = "https://www.linkedin.com/in/alvin-agana/";
+  } else if (name === 'Design Portfolio') {
+    href = "https://alvagana.github.io/des157a/";
   } else {
     href = "mailto:alvin.agana@gmail.com";
   }
